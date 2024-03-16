@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\App_Escritorio\\AppClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FCF4F2-AA5B-4325-97E8-13D5E5A1DC35}|..\\CapaDatos\\CapaDatos.csproj|e:\\app_escritorio\\capadatos\\despecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FCF4F2-AA5B-4325-97E8-13D5E5A1DC35}|..\\CapaDatos\\CapaDatos.csproj|e:\\app_escritorio\\capadatos\\dpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D77CC5-2998-4485-84C7-2A73589B7925}|..\\CapaLogica\\CapaLogica.csproj|e:\\app_escritorio\\capalogica\\npaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|e:\\app_escritorio\\appclinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|e:\\app_escritorio\\appclinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\app_escritorio\\capapresentacion\\frmmoduloespecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D77CC5-2998-4485-84C7-2A73589B7925}|..\\CapaLogica\\CapaLogica.csproj|e:\\app_escritorio\\capalogica\\nespecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FCF4F2-AA5B-4325-97E8-13D5E5A1DC35}|..\\CapaDatos\\CapaDatos.csproj|e:\\app_escritorio\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\app_escritorio\\capapresentacion\\frmmodulopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|E:\\App_Escritorio\\AppClinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DPaciente.cs",
+              "DocumentMoniker": "E:\\App_Escritorio\\CapaDatos\\DPaciente.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\DPaciente.cs",
+              "ToolTip": "E:\\App_Escritorio\\CapaDatos\\DPaciente.cs",
+              "RelativeToolTip": "..\\CapaDatos\\DPaciente.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAswH0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:30:17.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NPaciente.cs",
+              "DocumentMoniker": "E:\\App_Escritorio\\CapaLogica\\NPaciente.cs",
+              "RelativeDocumentMoniker": "..\\CapaLogica\\NPaciente.cs",
+              "ToolTip": "E:\\App_Escritorio\\CapaLogica\\NPaciente.cs",
+              "RelativeToolTip": "..\\CapaLogica\\NPaciente.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:30:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmModuloEspecialista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\App_Escritorio\\CapaPresentacion\\FrmModuloEspecialista.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmModuloEspecialista.cs",
+              "ToolTip": "E:\\App_Escritorio\\CapaPresentacion\\FrmModuloEspecialista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmModuloEspecialista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:29:14.759Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "E:\\App_Escritorio\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
+              "ToolTip": "E:\\App_Escritorio\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:57:08.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\App_Escritorio\\AppClinica\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\App_Escritorio\\AppClinica\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:30:58.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NEspecialista.cs",
+              "DocumentMoniker": "E:\\App_Escritorio\\CapaLogica\\NEspecialista.cs",
+              "RelativeDocumentMoniker": "..\\CapaLogica\\NEspecialista.cs",
+              "ToolTip": "E:\\App_Escritorio\\CapaLogica\\NEspecialista.cs",
+              "RelativeToolTip": "..\\CapaLogica\\NEspecialista.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:57:53.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DEspecialista.cs",
+              "DocumentMoniker": "E:\\App_Escritorio\\CapaDatos\\DEspecialista.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\DEspecialista.cs",
+              "ToolTip": "E:\\App_Escritorio\\CapaDatos\\DEspecialista.cs",
+              "RelativeToolTip": "..\\CapaDatos\\DEspecialista.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwG8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:57:10.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\App_Escritorio\\AppClinica\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\App_Escritorio\\AppClinica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:09:17.813Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmModuloPaciente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\App_Escritorio\\CapaPresentacion\\FrmModuloPaciente.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmModuloPaciente.cs",
+              "ToolTip": "E:\\App_Escritorio\\CapaPresentacion\\FrmModuloPaciente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmModuloPaciente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:06:56.595Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\App_Escritorio\\AppClinica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\App_Escritorio\\AppClinica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:35:45.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

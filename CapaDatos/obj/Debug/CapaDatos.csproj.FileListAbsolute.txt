@@ -1,0 +1,12 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\App_Escritorio\CapaDatos\bin\Debug\CapaDatos.dll
+E:\App_Escritorio\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.dll
+E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.pdb
