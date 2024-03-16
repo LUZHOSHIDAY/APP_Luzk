@@ -16,3 +16,7 @@ E:\App_Escritorio\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
 E:\App_Escritorio\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
 E:\App_Escritorio\CapaLogica\obj\Debug\CapaLogica.dll
 E:\App_Escritorio\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Protecto_luzK\App_luzk\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Protecto_luzK\App_luzk\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Protecto_luzK\App_luzk\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Protecto_luzK\App_luzk\CapaLogica\obj\Debug\CapaLogica.pdb

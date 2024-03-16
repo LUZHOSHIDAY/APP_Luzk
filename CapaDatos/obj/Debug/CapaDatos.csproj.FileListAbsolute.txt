@@ -10,3 +10,7 @@ E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
 E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.dll
 E:\App_Escritorio\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Protecto_luzK\App_luzk\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Protecto_luzK\App_luzk\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Protecto_luzK\App_luzk\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Protecto_luzK\App_luzk\CapaDatos\obj\Debug\CapaDatos.pdb

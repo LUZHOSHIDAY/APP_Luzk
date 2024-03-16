@@ -25,3 +25,10 @@ E:\App_Escritorio\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
 E:\App_Escritorio\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 E:\App_Escritorio\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 E:\App_Escritorio\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+C:\Protecto_luzK\App_luzk\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Protecto_luzK\App_luzk\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+C:\Protecto_luzK\App_luzk\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+C:\Protecto_luzK\App_luzk\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Protecto_luzK\App_luzk\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Protecto_luzK\App_luzk\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Protecto_luzK\App_luzk\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

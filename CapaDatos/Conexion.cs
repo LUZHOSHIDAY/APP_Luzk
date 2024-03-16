@@ -12,7 +12,7 @@ namespace CapaDatos
     internal class Conexion
     {
         public static string Cn =
-            "Data Source=DESKTOP-6V9JTSL\\MSSQLSERVER01; " +
+            "Data Source=LUZ\\MSSQLSERVER01; " +
             "Initial Catalog =DB_Clinica; " +
             "Integrated Security=true";
     }

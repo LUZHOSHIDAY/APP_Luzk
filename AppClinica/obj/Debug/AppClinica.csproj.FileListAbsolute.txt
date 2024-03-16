@@ -32,3 +32,6 @@ E:\App_Escritorio\AppClinica\obj\Debug\AppClinica.csproj.CoreCompileInputs.cache
 E:\App_Escritorio\AppClinica\obj\Debug\AppClinica.csproj.Up2Date
 E:\App_Escritorio\AppClinica\obj\Debug\AppClinica.exe
 E:\App_Escritorio\AppClinica\obj\Debug\AppClinica.pdb
+C:\Protecto_luzK\App_luzk\AppClinica\obj\Debug\AppClinica.csproj.AssemblyReference.cache
+C:\Protecto_luzK\App_luzk\AppClinica\obj\Debug\AppClinica.exe
+C:\Protecto_luzK\App_luzk\AppClinica\obj\Debug\AppClinica.pdb
